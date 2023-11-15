@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blog de Josema</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Blog de Josema</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 12:30:00 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica1</title>
+      <link>http://example.org/posts/practica1/</link>
+      <pubDate>Fri, 06 Oct 2023 12:30:00 +0200</pubDate>
+      
+      <guid>http://example.org/posts/practica1/</guid>
+      <description>Bienvenido a la práctica 1 Implantación de aplicaciones Web En esta asignatura aprenderemos a desplegar aplicaciones web.
+Creación de una lista: - Elemento 1 - Elemento 2 - Elemento 3
+Enlaces Haz click aqui para acceder a mi github.
+Añadiendo una Imagen Creando código Esto es una lína de código
+Esto es un bloque de codigo </description>
+    </item>
+    
+    <item>
+      <title>Primera Entrada</title>
+      <link>http://example.org/posts/primera-entrada/</link>
+      <pubDate>Fri, 06 Oct 2023 12:18:04 +0200</pubDate>
+      
+      <guid>http://example.org/posts/primera-entrada/</guid>
+      <description>Primera Entrada He creado esta primera entrada para mi blog, en este blog iré subiendo los trabajos y prácticas realizados durante el curso.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://example.org/contacto/</link>
+      <pubDate>Fri, 06 Oct 2023 12:09:21 +0200</pubDate>
+      
+      <guid>http://example.org/contacto/</guid>
+      <description>Datos de contacto: Nombre: José Manuel Fernández Email: josemanuel4fernandez@gmail.com Telefono: 665162138 </description>
+    </item>
+    
+    
+  </channel>
+</rss>

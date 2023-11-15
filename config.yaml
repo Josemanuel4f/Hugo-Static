@@ -1,0 +1,25 @@
+baseURL: 'http://example.org/'
+languageCode: 'en-us'
+title: 'Blog de Josema'
+theme: 'PaperMod'
+
+menu:
+  main:
+  - name: Inicio
+    pageRef: /
+    weight: 10
+  - name: Conctacto
+    pageRef: /contacto
+    weight: 20
+
+params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: Bienvenidos a mi blog
+  socialIcons:
+   - name: "twitter"
+     url: "https://twitter.com/4Rote4"
+   - name: "github"
+     url: "https://github.com/Josemanuel4f"
+  ShowCodeCopyButtons: true
